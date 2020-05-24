@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">Poznámky</string>
+	<string name="nazov">Názov</string>
+	<string name="popis">Popis</string>
+	<string name="pridaj">Pridaj</string>
+	<string name="hint">text</string>
+	<string name="nazovPoznamky">nazovPoznamky</string>
+	<string name="popisPoznamky">popisPoznamky</string>
+	<string name="obr">obr</string>
+	<string name="empty">Empty</string>
+	<string name="search">Search</string>
+</resources>
