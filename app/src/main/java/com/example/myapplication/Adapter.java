@@ -16,7 +16,7 @@ import java.util.List;
 /**
  * Trieda adapter
  *
- * <code>Adapter</code> extenduje RecyclerView na ktorom prekryva metody, spaja data s recyclerView-om
+ * <code>Adapter</code> extenduje RecyclerView.Adapter na ktorom prekryva metody, spaja data s recyclerView-om
  */
 public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> implements Filterable {
 

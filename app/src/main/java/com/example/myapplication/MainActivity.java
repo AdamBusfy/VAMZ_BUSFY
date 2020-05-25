@@ -151,6 +151,7 @@ public class MainActivity extends AppCompatActivity implements Adapter.OnItemLis
 								fab.setBackgroundTintList(ContextCompat.getColorStateList(getApplicationContext(), R.color.addButtonColor));
 							}
 						})
+						.setCancelable(false)
 						.show();
 				}
 			}
@@ -213,6 +214,7 @@ public class MainActivity extends AppCompatActivity implements Adapter.OnItemLis
 							setLayout();
 						}
 					})
+					.setCancelable(false)
 					.show();
 			}
 
